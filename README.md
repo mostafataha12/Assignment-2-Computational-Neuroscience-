@@ -46,16 +46,6 @@ where \( \eta \) is the learning rate.
 
 The updated weights and biases are printed after one iteration of backpropagation.
 
-## Usage
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/neural-network-backpropagation.git
-   cd neural-network-backpropagation
-   ```
-2. Run the Python script:
-   ```sh
-   python neural_net.py
-   ```
 
 ## Requirements
 - Python 3.x
