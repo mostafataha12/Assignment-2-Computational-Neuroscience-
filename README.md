@@ -56,6 +56,4 @@ The updated weights and biases are printed after one iteration of backpropagatio
 - Add more activation functions (ReLU, Tanh, etc.).
 - Extend to multi-class classification.
 
-## License
-This project is open-source and available under the MIT License.
 
